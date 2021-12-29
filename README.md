@@ -28,6 +28,4 @@ Second Line:
 - User input prompt
     - Renders prompt error in red when last command returns a non zero status
 
-
-
-
+![Screenshot](screenshot.png)
