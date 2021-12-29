@@ -51,7 +51,7 @@ status() {
 }
 
 prompt() {
-    print -n "%B$(user) %(?.$fg[white].$fg[red])\u276f%{$reset_color%}%b "
+    print -n "%B$(user) %(?..$fg[red])\u276f%{$reset_color%}%b "
 }
 
 set_prompt() {
